@@ -1,1 +1,1 @@
-Describe the plan to support the community
+CryptoProcessing connects multiple communities world wide, sponsoring conferences is one of CP roles in decentralized world!
