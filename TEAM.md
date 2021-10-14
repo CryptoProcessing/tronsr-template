@@ -1,14 +1,23 @@
-## Founder
+## Eugene Khashin
 
-Name: [name]
-Role: [role]
+<img src="https://avatars.githubusercontent.com/u/919292?v=4" width="200">
 
-## Team Member 1
+Twitter: https://twitter.com/eugenekhashin
 
-Name: [name]
-Role: [role]
+Telegram: https://t.me/adastreamer
 
-## Team Member 2
+GitHub: https://github.com/adastreamer
 
-Name: [name]
-Role: [role]
+
+## Victor Krylov
+
+<img src="https://avatars.githubusercontent.com/u/6016695?v=4" width="200">
+
+GitHub: https://github.com/onlinevik
+
+
+## Stanislav Bogatkin
+
+<img src="https://avatars.githubusercontent.com/u/2613435?v=4" width="200">
+
+GitHub: https://github.com/sorrowless
